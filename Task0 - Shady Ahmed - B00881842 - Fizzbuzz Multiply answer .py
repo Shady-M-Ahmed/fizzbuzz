@@ -19,4 +19,5 @@ def FizzBuzzHandler(first,last):        # Create a function to handle FizzBuzz c
 
 print("FizzBuzz Game starting to work from" , X_first, "to", X_last)    #Making the code look fancy and decent :)
 FizzBuzzHandler(X_first,X_last) # Calling the function
-            
+
+#Output will be shown
